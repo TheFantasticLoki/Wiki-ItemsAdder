@@ -6,7 +6,7 @@ Here you can see an example configuration to create a complete armor with all it
 
 This is a simple armor which is created automatically without textures, ItemsAdder will generate it from the color you decided.
 
-![](<../../../.gitbook/assets/image (128).png>)
+![](<../../../.gitbook/assets/image (155).png>)
 
 
 
