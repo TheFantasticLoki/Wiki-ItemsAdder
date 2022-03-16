@@ -1,7 +1,7 @@
 # Furniture size
 
 {% hint style="warning" %}
-### It's adviced to use the small furniture (small Armorstand)
+#### It's adviced to use the small furniture (small Armorstand)
 {% endhint %}
 
 ## How can I adjust the furniture position when placed?
@@ -55,14 +55,10 @@ behaviours:
 
 {% tabs %}
 {% tab title="Big furniture" %}
-
-
 ![](<../../../.gitbook/assets/immagine (9).png>)
 {% endtab %}
 
 {% tab title="Small furniture" %}
-
-
 ![](<../../../.gitbook/assets/immagine (10).png>)
 {% endtab %}
 {% endtabs %}
